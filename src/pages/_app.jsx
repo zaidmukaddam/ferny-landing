@@ -19,7 +19,7 @@ const App = ({ Component, pageProps }) => {
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
 
-            gtag('config', 'G-NG2Q29W1MB');
+            gtag('config', 'UA-196323285-1');
             `,
           }}
         />
