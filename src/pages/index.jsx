@@ -94,7 +94,7 @@ const Index = (props) => {
             </h6>
           </div>
           <a
-            href="https://forms.gle/p8G3t8wWEZ4KeWpg9"
+            href="https://forms.gle/uohhmPbAP3pheCJa9"
             className="waitlist-button flex flex-row items-center justify-center px-6 py-4 bg-mist-2 rounded-md transform hover:scale-[1.03] duration-700"
             target="_blank"
           >
