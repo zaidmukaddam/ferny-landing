@@ -10,7 +10,7 @@ const App = ({ Component, pageProps }) => {
         {/* Google Analytics */}
         <script
           async
-          src="https://www.googletagmanager.com/gtag/js?id=G-NG2Q29W1MB"
+          src="https://www.googletagmanager.com/gtag/js?id=UA-196323285-1"
         ></script>
         <script
           dangerouslySetInnerHTML={{
