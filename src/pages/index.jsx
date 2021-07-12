@@ -153,11 +153,11 @@ const Index = (props) => {
             </h1>
             <p className="font-inter font-medium md:text-xl xl:text-2xl 2xl:text-3xl text-gray-300">
               <span className="font-semibold text-gray-100">Themes.</span>{" "}
-              Personalize your browser with custom colors and icons! 🎨
+              experience the legendary themes: Light and Dark. 🎨
             </p>
             <p className="font-inter font-medium md:text-xl xl:text-2xl 2xl:text-3xl text-gray-300">
-              <span className="font-semibold text-gray-100">Share.</span> Easily
-              share your favorite themes with short strings ;)
+              <span className="font-semibold text-gray-100">Search.</span> Easily
+              Customize and select your favourite search engines such as Google, DuckDuckGo and more...
             </p>
           </div>
         </div>
